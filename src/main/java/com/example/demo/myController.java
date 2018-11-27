@@ -14,4 +14,10 @@ public class myController {
 
         return "x";
     }
+	@RequestMapping(value = "/sss")
+    @ResponseBody
+    public String x(){
+
+        return "xxxxxx";
+    }
 }

@@ -26,4 +26,10 @@ public class myController {
 
         return "aaaa";
     }
+	@RequestMapping(value = "/wq")
+    @ResponseBody
+    public String xssq(){
+
+        return "ssss";
+    }
 }

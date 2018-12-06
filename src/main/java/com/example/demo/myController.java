@@ -32,4 +32,10 @@ public class myController {
 
         return "ssss";
     }
+	@RequestMapping(value = "/nihao")
+    @ResponseBody
+    public String nihao(){
+
+        return "nihao";
+    }
 }

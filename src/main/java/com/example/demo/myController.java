@@ -16,13 +16,13 @@ public class myController {
     }
 	@RequestMapping(value = "/sss")
     @ResponseBody
-    public String x(){
+    public String xw(){
 
         return "xxxxxx";
     }
 	@RequestMapping(value = "/aa")
     @ResponseBody
-    public String x(){
+    public String xwq(){
 
         return "aaaa";
     }

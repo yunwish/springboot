@@ -20,4 +20,10 @@ public class myController {
 
         return "xxxxxx";
     }
+	@RequestMapping(value = "/aa")
+    @ResponseBody
+    public String x(){
+
+        return "aaaa";
+    }
 }

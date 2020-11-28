@@ -30,6 +30,7 @@ public class myController {
     @ResponseBody
     public String xssq(){
 
+        String a= "xasxa+";
         return "ssss";
     }
 	@RequestMapping(value = "/nihao")

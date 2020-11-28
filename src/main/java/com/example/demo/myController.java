@@ -13,10 +13,7 @@ public class myController {
     public String x(){
 
 
-        String xa = "1212222";
-        String xa1 = "12344";
-        String xa2 = "6666";
-        String xa3 = "22222";
+        String xa = "xax";
 
 
         return "x";

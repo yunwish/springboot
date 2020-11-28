@@ -13,6 +13,8 @@ public class myController {
     public String x(){
 
 
+        String xa = "xax";
+
 
         return "x";
     }

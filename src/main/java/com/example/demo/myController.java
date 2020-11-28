@@ -36,6 +36,9 @@ public class myController {
     @ResponseBody
     public String nihao(){
 
+
+
+
         return "nihao";
     }
 }

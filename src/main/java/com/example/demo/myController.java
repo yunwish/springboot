@@ -12,6 +12,8 @@ public class myController {
     @ResponseBody
     public String x(){
 
+
+        xaxaxa
         return "x";
     }
 	@RequestMapping(value = "/sss")

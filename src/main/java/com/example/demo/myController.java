@@ -14,9 +14,9 @@ public class myController {
 
 
         String xa = "1212222";
-        String xa1 = "1212222";
-        String xa2 = "1212222";
-        String xa3 = "1212222";
+        String xa1 = "12344";
+        String xa2 = "6666";
+        String xa3 = "22222";
 
 
         return "x";
